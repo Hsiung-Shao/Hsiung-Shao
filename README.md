@@ -73,6 +73,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hsiung--Shao-181717?style=for-the-badge&logo=github)](https://github.com/Hsiung-Shao)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rxqS57xDBB)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=astro)](https://hsiung-shao.github.io)
 
 </div>
